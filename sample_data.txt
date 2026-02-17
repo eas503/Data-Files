@@ -1,0 +1,5 @@
+Hello, World!
+This is a sample text file for practicing file I/O.
+Python makes file handling easy and intuitive.
+You can read this file line by line or all at once.
+Data science requires good file handling skills.
