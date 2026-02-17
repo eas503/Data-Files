@@ -1,0 +1,9 @@
+date,product,quantity,price,region
+2026-02-01,Laptop,2,999.99,East
+2026-02-02,Mouse,5,29.99,West
+2026-02-03,Keyboard,3,79.99,East
+2026-02-04,Laptop,1,999.99,North
+2026-02-05,Monitor,2,349.99,West
+2026-02-06,Mouse,8,29.99,East
+2026-02-07,Keyboard,4,79.99,North
+2026-02-08,Monitor,3,349.99,South
